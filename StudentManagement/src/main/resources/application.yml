@@ -1,0 +1,18 @@
+demo-user:
+  userName: Lưu Đình Việt Ân
+  userEmail: luudinhvietan1123@gmail.com
+
+demo-student-list:
+  studentExampleList:
+    -
+      studentName: student1
+      studentEmail: student1@gmail.com
+      studentId: 1
+    -
+      studentName: student2
+      studentEmail: student2@gmail.com
+      studentId: 2
+    -
+      studentName: student3;
+      studentEmail: student3@gmail.com
+      studentId: 3
